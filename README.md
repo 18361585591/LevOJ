@@ -1,2 +1,3 @@
-# LevOJ
-NUIST LevOJ Problem Solutions
+# 南京信息工程大学 LevOJ 计软课作业解决方案
+可以借鉴，严禁抄袭
+欢迎大佬交流
