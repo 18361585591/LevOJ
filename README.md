@@ -1,23 +1,23 @@
 # 南京信息工程大学 LevOJ 计软课作业解决方案
-//\\ \\ \\ \\ \\ \\ \\ \\ || || || || || || // // // // // // // //  
-//\\ \\ \\ \\ \\ \\ \\        _ooOoo_          // // // // // // //  
-//\\ \\ \\ \\ \\ \\          o8888888o            // // // // // //  
-//\\ \\ \\ \\ \\             88" . "88               // // // // //  
-//\\ \\ \\ \\                (| -_- |)                  // // // //  
-//\\ \\ \\                   O\  =  /O                     // // //  
-//\\ \\                   ____/`---'\____                     // //  
-//\\                    .'  \\|     |//  `.                      //  
-//==                   /  \\|||  :  |||//  \                     ==    
-//==                  /  _||||| -:- |||||-  \                    ==  
-//==                  |   | \\\  -  /// |   |                    ==  
-//==                  | \_|  ''\---/''  |   |                    ==  
-//==                  \  .-\__  `-`  ___/-. /                    ==  
-//==                ___`. .'  /--.--\  `. . ___                  ==    
-//==              ."" '<  `.___\_<|>_/___.'  >'"".               ==  
-//==            | | :  `- \`.;`\ _ /`;.`/ - ` : | |              \\  
-////            \  \ `-.   \_ __\ /__ _/   .-` /  /              \\  
-////      ========`-.____`-.___\_____/___.-`____.-'========      \\  
-////                           `=---='                           \\  
-//// //   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  \ \\\  
-//// // //      佛祖保佑      永无BUG      永不修改        \\ \\ \\\   
-//// // // // // // || || || || || || || || || || \\ \\ \\ \\ \\ \\\    
+<pre style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1em; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: 16.8px; overflow: auto; color: rgb(68, 68, 68); padding: 0.5em; background: rgb(240, 240, 240); word-spacing: 1px;"><code style="box-sizing: border-box; margin: 0px; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace; font-size: inherit; color: inherit; overflow-wrap: break-word; word-break: normal;"><span style="box-sizing: border-box; margin: 0px; color: rgb(136, 136, 136);">//\\ \\ \\ \\ \\ \\ \\ \\ || || || || || || // // // // // // // //</span>
+<span style="box-sizing: border-box; margin: 0px; color: rgb(136, 136, 136);">//\\ \\ \\ \\ \\ \\ \\        _ooOoo_          // // // // // // //</span>
+<span style="box-sizing: border-box; margin: 0px; color: rgb(136, 136, 136);">//\\ \\ \\ \\ \\ \\          o8888888o            // // // // // //</span>
+<span style="box-sizing: border-box; margin: 0px; color: rgb(136, 136, 136);">//\\ \\ \\ \\ \\             88" . "88               // // // // //</span>
+<span style="box-sizing: border-box; margin: 0px; color: rgb(136, 136, 136);">//\\ \\ \\ \\                (| -_- |)                  // // // //</span>
+<span style="box-sizing: border-box; margin: 0px; color: rgb(136, 136, 136);">//\\ \\ \\                   O\  =  /O                     // // //</span>
+<span style="box-sizing: border-box; margin: 0px; color: rgb(136, 136, 136);">//\\ \\                   ____/`---'\____                     // //</span>
+<span style="box-sizing: border-box; margin: 0px; color: rgb(136, 136, 136);">//\\                    .'  \\|     |//  `.                      //</span>
+<span style="box-sizing: border-box; margin: 0px; color: rgb(136, 136, 136);">//==                   /  \\|||  :  |||//  \                     ==</span>
+<span style="box-sizing: border-box; margin: 0px; color: rgb(136, 136, 136);">//==                  /  _||||| -:- |||||-  \                    ==</span>
+<span style="box-sizing: border-box; margin: 0px; color: rgb(136, 136, 136);">//==                  |   | \\\  -  /// |   |                    ==</span>
+<span style="box-sizing: border-box; margin: 0px; color: rgb(136, 136, 136);">//==                  | \_|  ''\---/''  |   |                    ==</span>
+<span style="box-sizing: border-box; margin: 0px; color: rgb(136, 136, 136);">//==                  \  .-\__  `-`  ___/-. /                    ==</span>
+<span style="box-sizing: border-box; margin: 0px; color: rgb(136, 136, 136);">//==                ___`. .'  /--.--\  `. . ___                  ==</span>
+<span style="box-sizing: border-box; margin: 0px; color: rgb(136, 136, 136);">//==              ."" '&lt;  `.___\_&lt;|&gt;_/___.'  &gt;'"".               ==</span>
+<span style="box-sizing: border-box; margin: 0px; color: rgb(136, 136, 136);">//==            | | :  `- \`.;`\ _ /`;.`/ - ` : | |              \\</span>
+<span style="box-sizing: border-box; margin: 0px; color: rgb(136, 136, 136);">////            \  \ `-.   \_ __\ /__ _/   .-` /  /              \\</span>
+<span style="box-sizing: border-box; margin: 0px; color: rgb(136, 136, 136);">////      ========`-.____`-.___\_____/___.-`____.-'========      \\</span>
+<span style="box-sizing: border-box; margin: 0px; color: rgb(136, 136, 136);">////                           `=---='                           \\</span>
+<span style="box-sizing: border-box; margin: 0px; color: rgb(136, 136, 136);">//// //   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  \\ \\</span>
+<span style="box-sizing: border-box; margin: 0px; color: rgb(136, 136, 136);">//// // //      佛祖保佑      永无BUG      永不修改        \\ \\ \\ \\</span>
+<span style="box-sizing: border-box; margin: 0px; color: rgb(136, 136, 136);">//// // // // // // || || || || || || || || || || \\ \\ \\ \\ \\ \\</span></code></pre>
