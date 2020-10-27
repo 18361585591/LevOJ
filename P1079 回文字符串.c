@@ -18,7 +18,7 @@ int main()
         {
             i++; j--;
         }
-        if (i <= j)
+        if (i < j)
         {
             printf("No\n");
         }
