@@ -7,11 +7,11 @@ int main()
 {
     int n, t;
     scanf("%d", &n);
+    getchar();
     for (t = 0; t < n; t++)
     {
         char a[100];
         int i = 0, j;
-        getchar();
         gets(a);
         j = strlen(a) - 1;
         while (i <= j && a[i] == a[j])
