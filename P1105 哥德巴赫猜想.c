@@ -19,6 +19,7 @@ int main()
 			if (p1 == 1 && p2 == 1)
 			{
 				printf("%d+%d\n", x1, x2);
+                                break;
 			}
 		}
 	}
