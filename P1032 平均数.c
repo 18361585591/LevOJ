@@ -25,7 +25,7 @@ int main()
 		}
 		else
 		{
-			printf("%.2lf\n", p);
+			printf("%.2f\n", p);
 			p = 0;
 			s = 0;
 		}
