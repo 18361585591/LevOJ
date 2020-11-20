@@ -28,13 +28,13 @@ int main()
 				e[k++] = a[j];   //e[]存放中间去除*后的结果，全是a
 		}
 		/*连接并输出*/
-		strcat(e, d);
-		puts(e);
+		printf("%s", e);
+		printf("%s\n", d);
 		/*归零所有数组*/
-		strcpy(a, s); 
-		strcpy(b, s);
-		strcpy(d, s);
-		strcpy(e, s);
+		memset(a, '\0', sizeof(a));
+		memset(b, '\0', sizeof(b));
+		memset(d, '\0', sizeof(d));
+		memset(e, '\0', sizeof(e));
 		k = 0;
 	}
 	return 0;
